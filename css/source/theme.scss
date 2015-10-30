@@ -1,0 +1,235 @@
+/**
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
+ *
+ * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
+ */
+
+ // This file has been copied over from
+ // ../../bower_components/reveal.js/css/theme/source/black.scss
+
+ // See ../../bower_components/reveal.js/css/theme/README.md
+ // for further explanations on how to create a custom reveal.js theme.
+
+// Default mixins and settings -----------------
+@import "../../bower_components/reveal.js/css/theme/template/mixins";
+@import "../../bower_components/reveal.js/css/theme/template/settings";
+// ---------------------------------------------
+
+
+// Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
+$backgroundColor: #222;
+
+$mainColor: #fff;
+$headingColor: #fff;
+
+$mainFontSize: 38px;
+$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: #42affa;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+section.has-light-background {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #222;
+	}
+}
+
+// Theme template ------------------------------
+//@import "../../bower_components/reveal.js/css/theme/template/theme";
+// ---------------------------------------------
+
+// Grab me some fonts.
+@import url(http://iamcarrico.github.io/fonts/pt.css);
+@import url(http://iamcarrico.github.io/fonts/newcicle.css);
+
+@mixin clearfix {
+	&:after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}
+}
+
+
+$newcicle: 'New Cicle', Arial, sans-serif;
+$pt: 'PT Sans', Helvetica, Arial, sans-serif;
+
+.clearfix {
+  @include clearfix;
+}
+
+body {
+  font-family: $pt;
+  font-size: 2.25em;
+}
+
+// A few overrides so that mobile phones can see it too.
+html {
+  @media (max-width: 600px) {
+    font-size: 50%;
+
+    .reveal {
+      h1 {
+        font-size: 2em;
+      }
+
+      h2 {
+        font-size: 1.6em;
+      }
+    }
+  }
+
+  @media (min-width: 601px) and  (max-width: 888px) {
+    font-size: 75%;
+  }
+}
+
+* {
+  text-rendering: optimizeLegibility;
+}
+
+
+.reveal {
+  blockquote {
+    border: none;
+    box-shadow: none;
+    text-align: right;
+    background: none;
+    border-right: .2em solid;
+    padding: 0 1em 0 0;
+
+    cite {
+      font-size: .75em;
+      font-weight: bold;
+    }
+  }
+
+  ul {
+		display: inline-block;
+    text-align: left;
+    margin: 0 0 0 1em;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+
+  h1, h2, h3, h4, h5  {
+    font-family: $newcicle;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-weight: normal;
+
+
+    a {
+      background-position: 0 0.825em !important;
+    }
+
+  }
+
+  h1, h2 {
+    margin-bottom: .25em;
+  }
+
+  pre {
+    font-size: 1em;
+
+    &.codemark {
+      box-shadow: none;
+      font-size: .55em;
+    }
+  }
+
+  p {
+    margin-bottom: .75em;
+  }
+
+  .slides-link {
+    font-size: 2.5em;
+    margin-top: .5em;
+  }
+
+  .attribution {
+    color: white;
+    font-size: 0.4em;
+    background: rgba(0, 0, 0, 0.7);
+    margin-top: 31em;
+  }
+
+  .small {
+    text-transform: lowercase !important;
+  }
+}
+
+
+.reveal .controls div.navigate {
+  $states: (
+    "intro": white
+  );
+
+  $dirs: (
+    left: right,
+    right: left,
+    up: bottom,
+    down: top
+  );
+
+  @each $dir, $border in $dirs {
+    &-#{$dir} {
+      @each $state, $color in $states {
+        .#{$state} & {
+          border-#{$border}-color: $color;
+        }
+      }
+    }
+  }
+}
+
+$bg-colors: (
+  'lime-green': #97e52d,
+  'dark-green': #00944A,
+  'steel-blue': #2090b4,
+  'red': rgba(200, 50, 30, 1)
+);
+
+.backgrounds {
+
+  .alert .reveal & { // Extra class to override reveal.
+    background-color: map-get($bg-colors, 'red');
+  }
+
+  .intro & {
+    background-color: black;
+  }
+}
+
+[data-state="intro"] {
+  color: white;
+}
+
+#hashtag {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 5;
+  font-family: $newcicle;
+  font-size: 1.5em;
+  padding: .2em .4em;
+  background: rgba(0, 0, 0, 0.14);
+
+  .intro & {
+    display: none;
+  }
+}

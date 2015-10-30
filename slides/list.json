@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "filename": "intro/index.md",
+      "attr": {
+          "data-state": "intro"
+      }
+    },
+    {
+      "filename": "intro/whoami.md",
+      "attr": {
+        "data-state": "intro",
+        "id": "who"
+      }
+    },
+    {
+      "filename": "intro/is.md",
+      "attr": {
+        "data-state": "intro",
+        "id": "is"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "wrap/wrap-up.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "wrap"
+      }
+    },
+    {
+      "filename": "wrap/questions.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "questions"
+      }
+    },
+    {
+      "filename": "wrap/slides.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "slides"
+      }
+    },
+    {
+      "filename": "wrap/fin.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "fin"
+      }
+    }
+  ]
+]
