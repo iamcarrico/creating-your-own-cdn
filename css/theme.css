@@ -363,6 +363,11 @@ body {
 .reveal .small {
   text-transform: lowercase !important; }
 
+.reveal section img {
+  background: none;
+  border: 0;
+  box-shadow: none; }
+
 .intro .reveal .controls div.navigate-left {
   border-right-color: white; }
 
@@ -380,6 +385,9 @@ body {
 
 .intro .backgrounds {
   background-color: black; }
+
+.logo .backgrounds {
+  background-color: white; }
 
 [data-state="intro"] {
   color: white; }
