@@ -213,6 +213,7 @@ $bg-colors: (
   'lime-green': #97e52d,
   'dark-green': #00944A,
   'steel-blue': #2090b4,
+	'deploy-purple': #665B7A,
   'red': rgba(200, 50, 30, 1)
 );
 
@@ -228,6 +229,10 @@ $bg-colors: (
 
 	.logo & {
 		background-color: white;
+	}
+
+	.deploybot & {
+		background-color: map-get($bg-colors, 'deploy-purple');
 	}
 }
 
