@@ -23,6 +23,55 @@
   ],
   [
     {
+      "filename": "why/why.md",
+      "attr": {
+        "data-state": "why",
+        "id": "why"
+      }
+    },
+    {
+      "filename": "why/speed.md",
+      "attr": {
+        "data-state": "why",
+        "id": "speed",
+        "data-background": "/resources/images/why/ludicrous.gif"
+      }
+    },
+    {
+      "filename": "why/physics.md",
+      "attr": {
+        "data-state": "why",
+        "id": "physics",
+        "data-background": "/resources/images/why/albert-einstein.jpg"
+      }
+    },
+    {
+      "filename": "why/closer.md",
+      "attr": {
+        "data-state": "why",
+        "id": "closer",
+        "data-background": "/resources/images/why/ninja-cat.gif"
+      }
+    },
+    {
+      "filename": "why/dont.md",
+      "attr": {
+        "data-state": "why",
+        "id": "dont",
+        "data-background": "/resources/images/why/dont.gif"
+      }
+    },
+    {
+      "filename": "why/here.md",
+      "attr": {
+        "data-state": "why",
+        "id": "here",
+        "data-background": "/resources/images/why/why-am-i-here.gif"
+      }
+    }
+  ],
+  [
+    {
       "filename": "wrap/wrap-up.md",
       "attr": {
         "data-state": "wrap",
