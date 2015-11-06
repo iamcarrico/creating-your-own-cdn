@@ -1,1 +1,1 @@
-![Vox Product](https://iamcarrico.github.io/creating-your-own-cdn/images/VOXPRODUCT.svg "Vox Product")
+![Vox Product](https://iamcarrico.github.io/creating-your-own-cdn/resources/images/VOXPRODUCT.svg "Vox Product")

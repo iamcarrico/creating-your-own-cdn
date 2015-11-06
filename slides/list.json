@@ -34,7 +34,7 @@
       "attr": {
         "data-state": "why",
         "id": "speed",
-        "data-background": "/resources/images/why/ludicrous.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/ludicrous.gif"
       }
     },
     {
@@ -42,7 +42,7 @@
       "attr": {
         "data-state": "why",
         "id": "physics",
-        "data-background": "/resources/images/why/albert-einstein.jpg"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/albert-einstein.jpg"
       }
     },
     {
@@ -50,7 +50,7 @@
       "attr": {
         "data-state": "why",
         "id": "closer",
-        "data-background": "/resources/images/why/ninja-cat.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/ninja-cat.gif"
       }
     },
     {
@@ -58,7 +58,7 @@
       "attr": {
         "data-state": "why",
         "id": "dont",
-        "data-background": "/resources/images/why/dont.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/dont.gif"
       }
     },
     {
@@ -66,7 +66,7 @@
       "attr": {
         "data-state": "why",
         "id": "here",
-        "data-background": "/resources/images/why/why-am-i-here.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/why-am-i-here.gif"
       }
     }
   ],
