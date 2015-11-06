@@ -72,6 +72,33 @@
   ],
   [
     {
+      "filename": "ansible/ansible.md",
+      "attr": {
+        "data-state": "logo",
+        "id": "ansible"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "aws/aws.md",
+      "attr": {
+        "data-state": "logo",
+        "id": "aws"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "deploybot/deploybot.md",
+      "attr": {
+        "data-state": "deploybot",
+        "id": "deploybot"
+      }
+    }
+  ],
+  [
+    {
       "filename": "wrap/wrap-up.md",
       "attr": {
         "data-state": "wrap",

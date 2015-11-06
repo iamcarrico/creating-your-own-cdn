@@ -389,6 +389,9 @@ body {
 .logo .backgrounds {
   background-color: white; }
 
+.deploybot .backgrounds {
+  background-color: #665B7A; }
+
 [data-state="intro"] {
   color: white; }
 
