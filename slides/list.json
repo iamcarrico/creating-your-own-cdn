@@ -153,6 +153,38 @@
         "data-state": "logo",
         "id": "aws"
       }
+    },
+    {
+      "filename": "aws/dns.md",
+      "attr": {
+        "data-state": "aws",
+        "id": "route53",
+        "data-background": "/resources/images/aws/mailman.gif"
+      }
+    },
+    {
+      "filename": "aws/sorting.md",
+      "attr": {
+        "data-state": "aws",
+        "id": "sorting",
+        "data-background": "/resources/images/aws/sorting.gif"
+      }
+    },
+    {
+      "filename": "aws/how-do.md",
+      "attr": {
+        "data-state": "aws",
+        "id": "config-route53",
+        "data-background": "/resources/images/aws/config.png"
+      }
+    },
+    {
+      "filename": "aws/closest.md",
+      "attr": {
+        "data-state": "aws",
+        "id": "closest",
+        "data-background": "/resources/images/aws/closest.gif"
+      }
     }
   ],
   [
