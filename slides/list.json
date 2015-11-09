@@ -159,7 +159,7 @@
       "attr": {
         "data-state": "aws",
         "id": "route53",
-        "data-background": "/resources/images/aws/mailman.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/mailman.gif"
       }
     },
     {
@@ -167,7 +167,7 @@
       "attr": {
         "data-state": "aws",
         "id": "sorting",
-        "data-background": "/resources/images/aws/sorting.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/sorting.gif"
       }
     },
     {
@@ -175,7 +175,7 @@
       "attr": {
         "data-state": "aws",
         "id": "config-route53",
-        "data-background": "/resources/images/aws/config.png"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/config.png"
       }
     },
     {
@@ -183,7 +183,7 @@
       "attr": {
         "data-state": "aws",
         "id": "closest",
-        "data-background": "/resources/images/aws/closest.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/closest.gif"
       }
     }
   ],
