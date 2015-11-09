@@ -77,6 +77,73 @@
         "data-state": "logo",
         "id": "ansible"
       }
+    },
+    {
+      "filename": "ansible/what-does-it-do.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "what-does-it-do",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/the-things-you-want-to-do.jpg"
+      }
+    },
+    {
+      "filename": "ansible/setup.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "setup"
+      }
+    },
+    {
+      "filename": "ansible/setup-run.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "setup-run"
+      }
+    },
+    {
+      "filename": "ansible/mind-blown.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "mind-blown-one",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown-nph.gif"
+      }
+    },
+    {
+      "filename": "ansible/config.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "config"
+      }
+    },
+    {
+      "filename": "ansible/mind-blown.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "mind-blown-two",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown-jon.gif"
+      }
+    },
+    {
+      "filename": "ansible/servers.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "servers"
+      }
+    },
+    {
+      "filename": "ansible/mind-blown.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "mind-blown-tree",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown.gif"
+      }
+    },
+    {
+      "filename": "ansible/more.md",
+      "attr": {
+        "data-state": "ansible",
+        "id": "more-ansible"
+      }
     }
   ],
   [
