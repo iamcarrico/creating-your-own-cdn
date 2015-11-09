@@ -181,7 +181,7 @@
     {
       "filename": "aws/closest.md",
       "attr": {
-        "data-state": "aws",
+        "data-state": "shadow",
         "id": "closest",
         "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/closest.gif"
       }
@@ -193,6 +193,30 @@
       "attr": {
         "data-state": "deploybot",
         "id": "deploybot"
+      }
+    },
+    {
+      "filename": "deploybot/what.md",
+      "attr": {
+        "data-state": "deploybot",
+        "id": "what-is-the-bot",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/hugs.gif"
+      }
+    },
+    {
+      "filename": "deploybot/free.md",
+      "attr": {
+        "data-state": "shadow",
+        "id": "free",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/yassss.gif"
+      }
+    },
+    {
+      "filename": "deploybot/sync.md",
+      "attr": {
+        "data-state": "deploybot",
+        "id": "sync",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/nsync.gif"
       }
     }
   ],

@@ -395,6 +395,10 @@ body {
 [data-state="intro"] {
   color: white; }
 
+[data-state="shadow"] h1, [data-state="shadow"] h2, [data-state="shadow"] h3, [data-state="shadow"] h4, [data-state="shadow"] h5, [data-state="shadow"] p {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6); }
+
 #hashtag {
   position: absolute;
   top: 0;
