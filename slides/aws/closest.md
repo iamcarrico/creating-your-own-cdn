@@ -1,4 +1,4 @@
-## Closest
+## Keeping traffic moving
 
 Note:
 The end result, latency between points is never that bad (with the exception of Australia— where I do not have a server.) Table below gives more of an idea of where
