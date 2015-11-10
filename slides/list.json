@@ -288,7 +288,7 @@
       "attr": {
         "data-state": "wrap",
         "id": "questions",
-        "data-background": "/resources/images/questions.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/questions.gif"
       }
     },
     {
