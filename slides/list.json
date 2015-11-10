@@ -249,6 +249,30 @@
         "id": "sync",
         "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/nsync.gif"
       }
+    },
+    {
+      "filename": "deploybot/setup.md",
+      "attr": {
+        "data-state": "deploybot",
+        "id": "setup-deploybot",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/setting-up.gif"
+      }
+    },
+    {
+      "filename": "deploybot/build-tools.md",
+      "attr": {
+        "data-state": "deploybot",
+        "id": "build-tools",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/spaceship.gif"
+      }
+    },
+    {
+      "filename": "deploybot/live-demo.md",
+      "attr": {
+        "data-state": "deploybot",
+        "id": "live-demo",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/live-demo.gif"
+      }
     }
   ],
   [
@@ -263,7 +287,8 @@
       "filename": "wrap/questions.md",
       "attr": {
         "data-state": "wrap",
-        "id": "questions"
+        "id": "questions",
+        "data-background": "/resources/images/questions.gif"
       }
     },
     {
