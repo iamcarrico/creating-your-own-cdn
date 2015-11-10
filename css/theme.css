@@ -368,6 +368,9 @@ body {
   border: 0;
   box-shadow: none; }
 
+.speaker-controls-notes .value {
+  font-size: 0.8em; }
+
 .intro .reveal .controls div.navigate-left {
   border-right-color: white; }
 
