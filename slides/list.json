@@ -83,7 +83,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "what-part-is-ansible",
-        "data-background": "/resources/images/ansible/servers.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/servers.gif"
       }
     },
     {
@@ -167,7 +167,7 @@
       "attr": {
         "data-state": "aws",
         "id": "what-is-aws",
-        "data-background": "/resources/images/aws/road.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/road.gif"
       }
     },
     {
@@ -216,7 +216,7 @@
       "attr": {
         "data-state": "deploybot",
         "id": "what-is-deploybot",
-        "data-background": "/resources/images/deploybot/same.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/same.gif"
       }
     },
     {
