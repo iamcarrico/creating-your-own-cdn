@@ -30,10 +30,19 @@
   ],
   [
     {
+      "filename": "why/prologue.md",
+      "attr": {
+        "data-state": "why",
+        "id": "prologue",
+        "data-background": "/resources/images/why/prologue.gif"
+      }
+    },
+    {
       "filename": "why/why.md",
       "attr": {
         "data-state": "why",
-        "id": "why"
+        "id": "why",
+        "data-background": "/resources/images/why/why.gif"
       }
     },
     {
@@ -42,6 +51,14 @@
         "data-state": "why",
         "id": "speed",
         "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/ludicrous.gif"
+      }
+    },
+    {
+      "filename": "why/big-globe.md",
+      "attr": {
+        "data-state": "why",
+        "id": "big-globe",
+        "data-background": "/resources/images/why/globe-is-big.gif"
       }
     },
     {
@@ -58,6 +75,22 @@
         "data-state": "why",
         "id": "closer",
         "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/ninja-cat.gif"
+      }
+    },
+    {
+      "filename": "why/but-why.md",
+      "attr": {
+        "data-state": "why",
+        "id": "but-why",
+        "data-background": "/resources/images/why/why-why-why.gif"
+      }
+    },
+    {
+      "filename": "why/cdn-providers.md",
+      "attr": {
+        "data-state": "why",
+        "id": "cdn-providers",
+        "data-background": "/resources/images/why/providers.gif"
       }
     },
     {
