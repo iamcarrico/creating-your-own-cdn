@@ -21,6 +21,13 @@
       }
     },
     {
+      "filename": "intro/shakespeare.md",
+      "attr": {
+        "data-state": "intro",
+        "id": "shakespeare"
+      }
+    },
+    {
       "filename": "intro/what.md",
       "attr": {
         "data-state": "intro",
