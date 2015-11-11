@@ -20,5 +20,12 @@
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iamcarrico/creating-your-own-cdn.git"
+  },
+  "config": {
+    "title": "Creating your own CDN"
   }
 }

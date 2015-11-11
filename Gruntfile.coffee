@@ -2,6 +2,8 @@
 module.exports = (grunt) ->
 
     grunt.initConfig
+        pkg: grunt.file.readJSON('package.json')
+
 
         watch:
 
@@ -101,7 +103,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:iamcarrico/creating-your-own-cdn.git'
+                    remote: '<%= pkg.repository.url %>'
                     branch: 'gh-pages'
 
 
