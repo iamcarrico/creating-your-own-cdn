@@ -25,7 +25,15 @@
     "type": "git",
     "url": "git@github.com:iamcarrico/creating-your-own-cdn.git"
   },
-  "config": {
-    "title": "Creating your own CDN"
+  "homepage": "https://github.com/iamcarrico/creating-your-own-cdn",
+  "author": {
+    "name": "Ian Carrico",
+    "email": "github@iancarrico.com",
+    "url": "https://github.com/iamcarrico"
+  },
+  "license": "MIT",
+  "configuration": {
+    "title": "Creating your own CDN",
+    "hashtag": "#createCDN"
   }
 }

@@ -2,8 +2,7 @@
 module.exports = (grunt) ->
 
     grunt.initConfig
-        pkg: grunt.file.readJSON('package.json')
-
+        pkg: grunt.file.readJSON 'package.json'
 
         watch:
 
@@ -121,6 +120,8 @@ module.exports = (grunt) ->
             html = grunt.template.process indexTemplate, data:
                 slides:
                     slides
+                pkg:
+                    grunt.file.readJSON 'package.json'
                 section: (slide) ->
                     grunt.template.process sectionTemplate, data:
                         slide:
