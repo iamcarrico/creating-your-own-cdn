@@ -1,3 +1,3 @@
 ## A Play in Three Acts
 
-![shakespeare](/resources/images/shakespeare.gif)
+![shakespeare](https://iamcarrico.github.io/creating-your-own-cdn/resources/images/shakespeare.gif)
