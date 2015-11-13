@@ -101,6 +101,14 @@
       }
     },
     {
+      "filename": "why/tweety.md",
+      "attr": {
+        "data-state": "why",
+        "id": "go-face-the-man",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/tweety.gif"
+      }
+    },
+    {
       "filename": "why/cookies.md",
       "attr": {
         "data-state": "why",
