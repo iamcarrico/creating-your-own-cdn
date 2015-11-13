@@ -41,7 +41,7 @@
       "attr": {
         "data-state": "why",
         "id": "prologue",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/prologue.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/prologue.gif"
       }
     },
     {
@@ -49,7 +49,7 @@
       "attr": {
         "data-state": "why",
         "id": "why",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/why.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/why.gif"
       }
     },
     {
@@ -57,7 +57,7 @@
       "attr": {
         "data-state": "why",
         "id": "speed",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/ludicrous.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/ludicrous.gif"
       }
     },
     {
@@ -65,7 +65,7 @@
       "attr": {
         "data-state": "why",
         "id": "big-globe",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/globe-is-big.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/globe-is-big.gif"
       }
     },
     {
@@ -73,7 +73,7 @@
       "attr": {
         "data-state": "why",
         "id": "physics",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/albert-einstein.jpg"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/albert-einstein.jpg"
       }
     },
     {
@@ -81,7 +81,7 @@
       "attr": {
         "data-state": "why",
         "id": "closer",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/ninja-cat.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/ninja-cat.gif"
       }
     },
     {
@@ -89,7 +89,7 @@
       "attr": {
         "data-state": "why",
         "id": "cdn-providers",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/providers.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/providers.gif"
       }
     },
     {
@@ -97,7 +97,15 @@
       "attr": {
         "data-state": "why",
         "id": "but-why",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/why-why-why.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/why-why-why.gif"
+      }
+    },
+    {
+      "filename": "why/tweety.md",
+      "attr": {
+        "data-state": "why",
+        "id": "go-face-the-man",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/tweety.gif"
       }
     },
     {
@@ -129,7 +137,7 @@
       "attr": {
         "data-state": "why",
         "id": "dont",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/dont.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/dont.gif"
       }
     },
     {
@@ -137,7 +145,7 @@
       "attr": {
         "data-state": "why",
         "id": "here",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/why-am-i-here.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/why-am-i-here.gif"
       }
     }
   ],
@@ -147,7 +155,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "what-part-is-ansible",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/servers.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/servers.gif"
       }
     },
     {
@@ -162,7 +170,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "what-does-it-do",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/the-things-you-want-to-do.jpg"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/the-things-you-want-to-do.jpg"
       }
     },
     {
@@ -184,7 +192,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "mind-blown-one",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown-nph.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown-nph.gif"
       }
     },
     {
@@ -199,7 +207,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "mind-blown-two",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown-jon.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown-jon.gif"
       }
     },
     {
@@ -214,7 +222,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "mind-blown-tree",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/mind-blown.gif"
       }
     },
     {
@@ -231,7 +239,7 @@
       "attr": {
         "data-state": "aws",
         "id": "what-is-aws",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/road.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/road.gif"
       }
     },
     {
@@ -246,7 +254,7 @@
       "attr": {
         "data-state": "aws",
         "id": "route53",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/mailman.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/mailman.gif"
       }
     },
     {
@@ -254,7 +262,7 @@
       "attr": {
         "data-state": "aws",
         "id": "sorting",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/sorting.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/sorting.gif"
       }
     },
     {
@@ -262,7 +270,7 @@
       "attr": {
         "data-state": "aws",
         "id": "config-route53",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/config.png"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/config.png"
       }
     },
     {
@@ -270,7 +278,7 @@
       "attr": {
         "data-state": "shadow",
         "id": "closest",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/closest.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/aws/closest.gif"
       }
     }
   ],
@@ -280,7 +288,7 @@
       "attr": {
         "data-state": "deploybot",
         "id": "what-is-deploybot",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/same.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/same.gif"
       }
     },
     {
@@ -295,7 +303,7 @@
       "attr": {
         "data-state": "deploybot",
         "id": "what-is-the-bot",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/hugs.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/hugs.gif"
       }
     },
     {
@@ -303,7 +311,7 @@
       "attr": {
         "data-state": "shadow",
         "id": "free",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/yassss.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/yassss.gif"
       }
     },
     {
@@ -311,7 +319,7 @@
       "attr": {
         "data-state": "deploybot",
         "id": "sync",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/nsync.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/nsync.gif"
       }
     },
     {
@@ -319,7 +327,7 @@
       "attr": {
         "data-state": "deploybot",
         "id": "setup-deploybot",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/setting-up.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/setting-up.gif"
       }
     },
     {
@@ -327,7 +335,7 @@
       "attr": {
         "data-state": "deploybot",
         "id": "build-tools",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/spaceship.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/spaceship.gif"
       }
     },
     {
@@ -335,7 +343,7 @@
       "attr": {
         "data-state": "deploybot",
         "id": "live-demo",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/live-demo.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/deploybot/live-demo.gif"
       }
     }
   ],
@@ -352,7 +360,7 @@
       "attr": {
         "data-state": "wrap",
         "id": "questions",
-        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/questions.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdnhttps://iamcarrico.github.io/creating-your-own-cdn/resources/images/questions.gif"
       }
     },
     {
