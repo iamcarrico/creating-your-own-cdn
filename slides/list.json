@@ -397,6 +397,22 @@
         "id": "epilogue",
         "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/epilogue/epilogue.gif"
       }
+    },
+    {
+      "filename": "epilogue/http2.md",
+      "attr": {
+        "data-state": "shadow",
+        "id": "http2",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/epilogue/speed.gif"
+      }
+    },
+    {
+      "filename": "epilogue/limitations.md",
+      "attr": {
+        "data-state": "epilogue",
+        "id": "limitations",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/epilogue/limits.gif"
+      }
     }
   ],
   [
