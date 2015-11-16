@@ -391,6 +391,16 @@
   ],
   [
     {
+      "filename": "epilogue/epilogue.md",
+      "attr": {
+        "data-state": "epilogue",
+        "id": "epilogue",
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/epilogue/epilogue.gif"
+      }
+    }
+  ],
+  [
+    {
       "filename": "wrap/wrap-up.md",
       "attr": {
         "data-state": "wrap",
