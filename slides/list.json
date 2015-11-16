@@ -178,7 +178,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "calm-down",
-        "data-background": "/resources/images/ansible/calm-down.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/calm-down.gif"
       }
     },
     {
@@ -208,7 +208,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "config",
-        "data-background": "/resources/images/ansible/calm-cat.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/calm-cat.gif"
       }
     },
     {
@@ -224,7 +224,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "servers",
-        "data-background": "/resources/images/ansible/calm-cat.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/calm-cat.gif"
       }
     },
     {
@@ -232,7 +232,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "mind-blown-tree",
-        "data-background": "/resources/images/ansible/uuhhh-mindblown.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/uuhhh-mindblown.gif"
       }
     },
     {
@@ -240,7 +240,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "roles",
-        "data-background": "/resources/images/ansible/calm-cat.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/calm-cat.gif"
       }
     },
     {
@@ -248,7 +248,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "roles-two",
-        "data-background": "/resources/images/ansible/calm-cat.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/calm-cat.gif"
       }
     },
     {
@@ -256,7 +256,7 @@
       "attr": {
         "data-state": "ansible",
         "id": "galaxy",
-        "data-background": "/resources/images/ansible/galaxy.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/ansible/galaxy.gif"
       }
     },
     {
