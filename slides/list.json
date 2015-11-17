@@ -85,6 +85,13 @@
       }
     },
     {
+      "filename": "why/network.md",
+      "attr": {
+        "data-state": "why",
+        "id": "network"
+      }
+    },
+    {
       "filename": "why/cdn-providers.md",
       "attr": {
         "data-state": "why",
@@ -412,6 +419,14 @@
         "data-state": "epilogue",
         "id": "limitations",
         "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/epilogue/limits.gif"
+      }
+    },
+    {
+      "filename": "epilogue/alone.md",
+      "attr": {
+        "data-state": "epilogue",
+        "id": "forever-alone",
+        "data-background": "/resources/images/epilogue/forever-alone.gif"
       }
     }
   ],
