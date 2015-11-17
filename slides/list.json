@@ -426,7 +426,7 @@
       "attr": {
         "data-state": "epilogue",
         "id": "forever-alone",
-        "data-background": "/resources/images/epilogue/forever-alone.gif"
+        "data-background": "https://iamcarrico.github.io/creating-your-own-cdn/resources/images/epilogue/forever-alone.gif"
       }
     }
   ],

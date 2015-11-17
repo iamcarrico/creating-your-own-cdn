@@ -1,6 +1,6 @@
 ## Traditional Network
 
-![CDN Network Map](/resources/images/why/cdn-network.JPG)
+![CDN Network Map](https://iamcarrico.github.io/creating-your-own-cdn/resources/images/why/cdn-network.JPG)
 
 Note:
 Traditionally— networks have a single origin server, where the database, code, etc all live— then many different cache servers that hold a cached version of the site. This ensures there is a single location where dynamic data lives.
